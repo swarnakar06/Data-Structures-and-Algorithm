@@ -33,4 +33,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
