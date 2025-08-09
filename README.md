@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
