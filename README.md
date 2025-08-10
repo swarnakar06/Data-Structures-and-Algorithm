@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
+| [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +70,9 @@
 | [0054-spiral-matrix](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
