@@ -79,4 +79,12 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
