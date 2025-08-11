@@ -11,12 +11,14 @@
 | [0136-single-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,11 +61,13 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
