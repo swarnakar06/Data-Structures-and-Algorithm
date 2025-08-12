@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
@@ -83,6 +85,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
