@@ -6,7 +6,7 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while (fast && fast->next) {
+        while (fast!=NULL && fast->next!=NULL) {
             slow = slow->next;           // Move slow by 1
             fast = fast->next->next;     // Move fast by 2
 
