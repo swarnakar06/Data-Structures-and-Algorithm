@@ -48,11 +48,13 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
