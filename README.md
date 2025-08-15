@@ -92,9 +92,18 @@
 | [0141-linked-list-cycle](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
