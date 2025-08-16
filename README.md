@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -107,9 +108,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
