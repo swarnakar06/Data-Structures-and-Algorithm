@@ -115,6 +115,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -130,6 +131,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -140,6 +142,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/swarnakar06/Data-Structures-and-Algorithm/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
